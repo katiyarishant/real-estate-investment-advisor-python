@@ -41,7 +41,7 @@ The goal of this project is to:
 | Libraries | pandas, numpy |
 | Visualization | Plotly |
 | Framework | Streamlit |
-| IDEs | Jupyter Notebook (EDA & Feature Engineering) / PyCharm (App Development) |
+| IDEs | Jupyter Notebook (EDA & Feature Engineering), PyCharm (App Development) |
 
 ---
 
