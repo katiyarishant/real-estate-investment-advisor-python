@@ -94,7 +94,6 @@ The goal of this project is to:
 
 ---
 
-## Author and Contact  
-**Author:** Ishant Katiyar  
+## Contact  
 **Email:** ishantkatiyar68@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/ishantkatiyar/
